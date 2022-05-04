@@ -11,4 +11,4 @@ Landing page para uma aula de costura criativa.
 <hr/>
 
 ### Preview
-<img src="https://guyddogl.github.io/naluflix-mar-22/img/screencapture-guyddogl-github-io-naluflix-mar-22.webp" alt="Screenshot do Projeto" />
+<a href="https://guyddogl.github.io/naluflix-mar-22/" target="_Blank"><img src="https://guyddogl.github.io/naluflix-mar-22/img/screencapture-guyddogl-github-io-naluflix-mar-22.webp" alt="Screenshot do Projeto" /></a>
