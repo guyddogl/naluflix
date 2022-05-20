@@ -1,0 +1,37 @@
+body {
+    background: #ffffff;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bg-banner {
+    background: url('../img/bg-upsell.webp') center top no-repeat #000000;
+    background-size: contain;
+}
+
+.bg-faturar {
+    background: url('../img/bg.webp') center top repeat #ffffff;
+    background-size: contain;
+}
+
+.bg-duvida {
+    background: url('../img/bg.webp') center top repeat #000000;
+    background-size: cover;
+}
+
+@media (min-width: 992px) { 
+
+    .bg-banner {
+        background: url('../img/bg-upsell.webp') center top repeat #000000;
+        background-size: cover;
+    }
+
+    .bg-faturar {
+        background: url('../img/bg-upsell2.webp') center top repeat #ffffff;
+        background-size: cover;
+    }
+
+    .bg-duvida {
+        background: url('../img/bg-upsell.webp') center top repeat #000000;
+        background-size: cover;
+    }
+}
