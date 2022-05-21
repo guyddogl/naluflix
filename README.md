@@ -12,4 +12,4 @@ Links: <a href="https://naluprojetoscriativos.com.br/naluflix/">Production</a> |
 <hr/>
 
 ### <a href="https://guyddogl.github.io/naluflix-mar-22/">Preview</a>
-<a href="https://guyddogl.github.io/naluflix-mar-22/" target="_Blank"><img src="https://guyddogl.github.io/naluflix-mar-22/img/screencapture-guyddogl-github-io-naluflix-mar-22.webp" alt="Screenshot do Projeto" /></a>
+<a href="https://guyddogl.github.io/naluflix-mar-22/" target="_Blank"><img src="https://guyddogl.github.io/naluflix-mar-22/assets/img/screencapture-guyddogl-github-io-naluflix-mar-22.webp" alt="Screenshot do Projeto" /></a>
