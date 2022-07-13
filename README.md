@@ -1,7 +1,7 @@
 # naluflix-ep01
-Landing page para uma aula de costura criativa.
+Landing page para venda de aulas de costura criativa.
 
-Links: <a href="https://naluprojetoscriativos.com.br/naluflix/">Production</a> | <a href="https://guyddogl.github.io/naluflix-mar-22/">Alternative</a>
+Links: <a href="https://naluprojetoscriativos.com.br/naluflix/naluflix-ep01">Production</a> | <a href="https://guyddogl.github.io/naluflix-ep01/">Alternative</a>
 <hr/>
 
 ### Tecnologias principais
@@ -12,4 +12,4 @@ Links: <a href="https://naluprojetoscriativos.com.br/naluflix/">Production</a> |
 <hr/>
 
 ### <a href="https://guyddogl.github.io/naluflix-mar-22/">Preview</a>
-<a href="https://guyddogl.github.io/naluflix-mar-22/" target="_Blank"><img src="https://guyddogl.github.io/naluflix-mar-22/assets/img/screencapture-guyddogl-github-io-naluflix-mar-22.webp" alt="Screenshot do Projeto" /></a>
+<a href="https://guyddogl.github.io/naluflix-ep01/" target="_Blank"><img src="https://guyddogl.github.io/naluflix-ep01/assets/img/screencapture-guyddogl-github-io-naluflix-mar-22.webp" alt="Screenshot do Projeto" /></a>
