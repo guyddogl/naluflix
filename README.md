@@ -1,7 +1,7 @@
 # naluflix
 Landing page para venda de aulas de costura criativa.
 
-Links EP01: <a href="https://naluprojetoscriativos.com.br/naluflix/naluflix-ep01">Production</a> | <a href="https://guyddogl.github.io/naluflix-ep01/">Alternative</a>
+Links EP01: <a href="https://naluprojetoscriativos.com.br/naluflix/naluflix-ep01">Production</a> | <a href="https://guyddogl.github.io/naluflix/naluflix-ep01/">Alternative</a>
 <hr/>
 
 ### Tecnologias principais
@@ -11,5 +11,5 @@ Links EP01: <a href="https://naluprojetoscriativos.com.br/naluflix/naluflix-ep01
 ![JavaScript](https://img.shields.io/badge/-JavaScript-1b374b?style=for-the-badge&logo=javascript)&nbsp;
 <hr/>
 
-### <a href="https://guyddogl.github.io/naluflix-mar-22/">Preview</a>
-<a href="https://guyddogl.github.io/naluflix-ep01/" target="_Blank"><img src="https://guyddogl.github.io/naluflix-ep01/assets/img/screencapture-naluflix-ep01.webp" alt="Screenshot do Projeto Naluflix EP01" /></a>
+### <a href="https://guyddogl.github.io/naluflix/naluflix-ep01/">Preview</a>
+<a href="https://guyddogl.github.io/naluflix/naluflix-ep01/" target="_Blank"><img src="https://guyddogl.github.io/naluflix/naluflix-ep01/assets/img/screencapture-naluflix-ep01.webp" alt="Screenshot do Projeto Naluflix EP01" /></a>
