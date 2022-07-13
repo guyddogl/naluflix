@@ -2,6 +2,7 @@
 Landing page para venda de aulas de costura criativa.
 
 Links EP01: <a href="https://naluprojetoscriativos.com.br/naluflix/naluflix-ep01">Production</a> | <a href="https://guyddogl.github.io/naluflix/naluflix-ep01/">Alternative</a>
+Links EP02: <a href="https://naluprojetoscriativos.com.br/naluflix/naluflix-ep02">Production</a> | <a href="https://guyddogl.github.io/naluflix/naluflix-ep02/">Alternative</a>
 <hr/>
 
 ### Tecnologias principais
