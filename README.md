@@ -1,4 +1,4 @@
-# naluflix-mar-22
+# naluflix-ep01
 Landing page para uma aula de costura criativa.
 
 Links: <a href="https://naluprojetoscriativos.com.br/naluflix/">Production</a> | <a href="https://guyddogl.github.io/naluflix-mar-22/">Alternative</a>
